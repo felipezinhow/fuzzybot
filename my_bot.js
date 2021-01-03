@@ -76,4 +76,4 @@ switch (new Date().getDay()) {
 	}
 	})
 })
-client.login("Nzc0NzQ5OTExMjgzMDA3NTE5.X6cUFQ.rIb6dv0evzqlGsW0929dX0ckv7Q")
+client.login("Nzc0NzQ5OTExMjgzMDA3NTE5.X6cUFQ.lOOAEG9jwZIGCC5V-hQESAJgfv0")
